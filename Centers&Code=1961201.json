@@ -1,0 +1,17 @@
+{
+    "data": {
+        "dict": [
+            {
+                "code": "915",
+                "name_kz": "Test1",
+                "name_ru": "Test2"
+            }
+        ]
+    },
+    "message": "OK",
+    "request_id": "d5b225f9-e88f-47fe-bb85-fb23014aebe7",
+    "request_url": "http://10.0.25.29/api/v1/dictionary/zags/search?dic=ZAGS&code=1961207",
+    "status": 200,
+    "timestamp": "2023-07-03T12:28:42.187390555+06:00",
+    "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+    "status": 200,
+    "message": "OK",
+    "request_id": "0b6adaca-d40b-4c93-9c84-02a07026683c",
+    "version": "0.0.1",
+    "timestamp": "2023-07-03T12:28:46.056585593+06:00",
+    "request_url": "http://10.0.25.29/api/v1/dictionary/zags/search?dic=REGION\u0026code=1961",
+    "data": {
+        "dict": [
+            {
+                "code": "1902201",
+                "name_ru": "RegRu1",
+                "name_kz": "RegKz1"
+            },
+            {
+                "code": "1902202",
+                "name_ru": "RegRu2",
+                "name_kz": "RegKz2"
+            },
+            {
+                "code": "1902203",
+                "name_ru": "RegRu3",
+                "name_kz": "RegKz3"
+            }
+        ]
+    }
+}
