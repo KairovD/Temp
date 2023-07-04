@@ -13,14 +13,14 @@
                 "name_kz": "АБАЙ"
             },
             {
-                "code": "1902",
-                "name_ru": "АКМОЛИНСКАЯ",
-                "name_kz": "АҚМОЛА"
-            },
-            {
                 "code": "1903",
                 "name_ru": "qwerty",
                 "name_kz": "ytrewq"
+            },
+            {
+                "code": "1902",
+                "name_ru": "АКМОЛИНСКАЯ",
+                "name_kz": "АҚМОЛА"
             }
         ]
     }
